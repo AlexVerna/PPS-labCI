@@ -1,3 +1,5 @@
+package org.example
+
 import org.example.AlexJava
 
 @main def hello(): Unit = {
